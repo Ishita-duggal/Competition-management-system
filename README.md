@@ -1,3 +1,3 @@
 # Competition-management-system
 
-My personal blog-gatsby
+Basic competition management system made using Python and the 'prettytables' library
